@@ -12,6 +12,7 @@
             width: 500px;
             border-collapse: collapse;
             margin: auto;
+            position: relative;
 
         }
         td, th{
@@ -23,10 +24,21 @@
             font-weight: bold;
             padding: 10px;
             background-color: lightgray;
+            /* border-top: 1px solid black;
+            border-left: 1px solid black;
+            border-right: 1px solid black; */
         }
         thead, tfoot {
             background-color: gray;
             color: white;
+        }
+        thead > tr > th{
+            position: sticky;
+            top: -1px;
+            background-color: gray;
+        }
+        tbody > tr:nth-child(2n){
+            background-color: lightgray;
         }
         .num {
             text-align: center;
