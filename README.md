@@ -1,4 +1,13 @@
-# html-css
- curso de HTML5 e CSS3
+# Curso em Vídeo html-css
+ <h1>Curso em Vídeo - HTML-CSS</h1>
+ <hr>
+ <p>Repositório para organização de arquivos e criação de projetos relacionados ao curso.</p>
 
-<a href="https://ronaldfb.github.io/projeto-android/" target="_blank" rel="external">Projeto Android</a>
+ <h2>Desafios e projetos do curso </h2>
+ <hr>
+ <ul>
+    <li></li>
+ </ul>
+
+
+<!-- <a href="https://ronaldfb.github.io/projeto-android/" target="_blank" rel="external">Projeto Android</a> -->
