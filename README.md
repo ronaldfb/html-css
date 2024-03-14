@@ -3,8 +3,8 @@
  
  <p>Repositório para organização de arquivos e criação de projetos relacionados ao curso.</p>
  <h2>Projetos</h2>
- <li><a href="https://ronaldfb.github.io/projeto-android/index.html" target="_blank" rel="external">Projeto Android
- <li><a href="https://ronaldfb.github.io/projeto-cordel/index.html" target="_blank" rel="external">
+ <li><a href="https://ronaldfb.github.io/projeto-android/index.html" target="_blank" rel="external">Mascote Android
+ <li><a href="https://ronaldfb.github.io/projeto-cordel/index.html" target="_blank" rel="external">Cordel Moderno
 
  <h2>Desafios do Curso </h2>
  
