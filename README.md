@@ -1,5 +1,32 @@
-# Curso em Vídeo HTML-CSS
-
+#
+<style>
+    header {
+        background-image: linear-gradient(to bottom, gray);
+        min-width: 150px;
+        text-align: center;
+        padding-top: 40px;
+    }
+    
+    header > h1 {
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 3em;
+        font-weight: normal;
+        margin-bottom: 20px;
+        text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.616);
+    }
+    
+    header > h2 {
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 1.2em;
+        color: white;
+        max-width: 600px;
+        padding-right: 10px;
+        padding-left: 10px;
+        margin: auto;
+        text-shadow: 2px 2px 0px rgba(0, 0, 0, 0.616);
+    }
+</style>
  <header>
      
 <h1>html-css</h1>
