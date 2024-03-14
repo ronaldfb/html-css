@@ -4,9 +4,9 @@
  <p>Repositório para organização de arquivos e criação de projetos relacionados ao curso.</p>
  <h2>Projetos</h2>
  <li><a href="https://ronaldfb.github.io/projeto-android/index.html" target="_blank" rel="external">Mascote Android
- <li><a href="https://ronaldfb.github.io/projeto-cordel/index.html" target="_blank" rel="external">Cordel Moderno
+ <li><a href="https://ronaldfb.github.io/projeto-cordel/index.html" target="_blank" rel="external">Cordel Moderno</a>
 
- <h2>Desafios do Curso </h2>
+ <h2>Desafios do Curso</h2>
  <ul>
     <li>Desafio 1 <a href="https://ronaldfb.github.io/HTML-CSS/desafios/d001/index.html" target="_blank" rel="external">Desafio das Mensagens</a>
     <li>Desafio 2 <a href="https://ronaldfb.github.io/HTML-CSS/desafios/d002/index.html" target="_blank" rel="external">Desafio das Imagens
