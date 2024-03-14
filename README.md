@@ -20,5 +20,5 @@
     <li>Desafio 12 <a href="https://ronaldfb.github.io/HTML-CSS/desafios/d012/index.html" target="_blank" rel="external">Cordel Moderno</a>
     <li>Desafio 13 - Expansão de Tabelas - <a href="https://ronaldfb.github.io/HTML-CSS/desafios/d013/d013a.html" target="_blank" rel="external">Parte1</a>
     /
-    <a href="https://ronaldfb.github.io/HTML-CSS/desafios/d013/d013b.html" target="_blank" rel="external">Parte2
+    <a href="https://ronaldfb.github.io/HTML-CSS/desafios/d013/d013b.html" target="_blank" rel="external">Parte2</a>
     <li>Desafio 14 <a href="https://ronaldfb.github.io/HTML-CSS/desafios/d014/index.html" target="_blank" rel="external"> Tabela de Notas Escolares</a>
