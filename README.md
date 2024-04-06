@@ -1,5 +1,4 @@
 # Curso em Vídeo HTML-CSS
-<link rel="shortcut icon" href="pasta.png" type="image/x-icon">
  <p>Repositório para organização de arquivos e criação de projetos relacionados ao curso.</p>
  <h2>Projetos</h2>
  <li><a href="https://ronaldfb.github.io/projeto-android/index.html" target="_blank" rel="external">Mascote Android
