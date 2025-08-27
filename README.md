@@ -3,6 +3,7 @@
  <h2>Projetos</h2>
  <li><a href="https://ronaldfb.github.io/projeto-android/index.html" target="_blank" rel="external">Mascote Android
  <li><a href="https://ronaldfb.github.io/projeto-cordel/index.html" target="_blank" rel="external">Cordel Moderno</a>
+ <li><a href="https://ronaldfb.github.io/html-css/exercicios/ex027/flex013%20-%20menu%20flexbox/index.html" target="_blank" rel="external">Menu Flex-Box</li>
 
  <h2>Desafios do Curso</h2>
  <ul>
