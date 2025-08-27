@@ -4,12 +4,15 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Menu Flexbox</title>
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="mobile.css" media="screen and (max-width: 580px)">
 </head>
 <body>
     <header>
         <h1>Meu Site</h1>
-        <nav>
+        <span id="burguer" class="material-icons" onclick="clickMenu()">menu</span>
+        <nav id="itens">
             <a href="#">Opção 1</a>
             <a href="#">Opção 2</a>
             <a href="#">Opção 3</a>
@@ -20,8 +23,22 @@
     </header>
     <main>
         <h2>Teste de Flexbox</h2>
-        <p>Lorem ipsum dolor sit, amet consectetur adipisicing elit. Iure tenetur alias animi aspernatur? Velit dolorum libero accusamus ex maiores sapiente commodi amet minus eveniet eaque qui non, iste optio! Cumque! Lorem ipsum dolor sit amet consectetur, adipisicing elit. Voluptatibus fugiat doloribus voluptatem quibusdam nulla eaque quo consequatur. Iure maxime quaerat facere sit et labore aliquid sunt! A nihil minus distinctio.</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Dolores esse, dolorum quas voluptate eius aliquid fuga modi iusto error molestiae tenetur voluptatibus beatae! Distinctio magni laudantium minima ad, nesciunt facere.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci tempore laboriosam at magnam. Totam dolor voluptatum deleniti odit repudiandae soluta qui, laboriosam sit est illum, molestias iste earum odio exercitationem. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odio est enim nostrum excepturi porro necessitatibus nobis similique odit, tenetur impedit quidem deserunt animi, ab ipsam eum neque rem praesentium dolorem?</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci tempore laboriosam at magnam. Totam dolor voluptatum deleniti odit repudiandae soluta qui, laboriosam sit est illum, molestias iste earum odio exercitationem. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odio est enim nostrum excepturi porro necessitatibus nobis similique odit, tenetur impedit quidem deserunt animi, ab ipsam eum neque rem praesentium dolorem?</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci tempore laboriosam at magnam. Totam dolor voluptatum deleniti odit repudiandae soluta qui, laboriosam sit est illum, molestias iste earum odio exercitationem. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odio est enim nostrum excepturi porro necessitatibus nobis similique odit, tenetur impedit quidem deserunt animi, ab ipsam eum neque rem praesentium dolorem?</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Adipisci tempore laboriosam at magnam. Totam dolor voluptatum deleniti odit repudiandae soluta qui, laboriosam sit est illum, molestias iste earum odio exercitationem. Lorem ipsum dolor sit amet consectetur, adipisicing elit. Odio est enim nostrum excepturi porro necessitatibus nobis similique odit, tenetur impedit quidem deserunt animi, ab ipsam eum neque rem praesentium dolorem?</p>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ad hic, provident repudiandae at rem temporibus vel porro veritatis quisquam perspiciatis quas culpa sunt quam modi doloremque distinctio neque optio alias.</p>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ad hic, provident repudiandae at rem temporibus vel porro veritatis quisquam perspiciatis quas culpa sunt quam modi doloremque distinctio neque optio alias.</p>
+        <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Ad hic, provident repudiandae at rem temporibus vel porro veritatis quisquam perspiciatis quas culpa sunt quam modi doloremque distinctio neque optio alias.</p>
     </main>
+    <script>
+        function clickMenu() {
+            if (itens.style.display == 'flex') {
+                itens.style.display = 'none'
+            } else {
+                itens.style.display = 'flex'
+            }
+        }
+    </script>
 </body>
 </html>

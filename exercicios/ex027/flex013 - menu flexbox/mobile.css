@@ -1,0 +1,45 @@
+@charset "UTF-8";
+
+header, header > nav {
+    flex-flow: column nowrap;
+    
+}
+
+nav {
+    display: none;
+}
+
+header > h1 {
+    flex-basis: 50px;
+}
+
+header > nav > a {
+    width: 80vw;
+}
+
+span#burguer {
+    background-color: rgb(51, 51, 51);
+    color: white;
+    width: 80vw;
+    display: block;
+    text-align: center;
+    border-radius: 6px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+span#burguer:hover {
+    background-color: white;
+    color: black;
+}
+
+main {
+    background-color: white;
+    padding: 10px;
+    border-radius: 6px;
+    box-shadow: 2px 2px 3px rgba(0, 0, 0, 0.596);
+    max-width: 440px;
+    margin: auto;
+    margin-top: 15px;
+
+}
